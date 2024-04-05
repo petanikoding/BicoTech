@@ -1,2 +1,3 @@
 BicoTech resolusi :
 - Konsisten belajar coding sampai bisa membuar project
+- mebuat aplikasi sendiri, untuk aplikasi pengelola uang
